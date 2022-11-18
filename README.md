@@ -1,15 +1,12 @@
 ## Calculadora de IMC
 
 <h1 align="center">
-    <img alt="Calculadora de IMC" title="calculadoradeimc" src="https://github.com/sjtorres/TelaLoginAnimada/blob/master/assets/logo.png" width="300px" />
-</h1>
-
-<h1 align="center">
-    <img alt="Calculadora de IMC" title="calculadoradeimc" src="https://github.com/sjtorres/TelaLoginAnimada/blob/master/assets/logo.png" width="300px" />
+    <img alt="Calculadora de IMC" title="calculadoradeimc" src="https://github.com/sjtorres/calculadoraDeIMC/blob/main/img/inicial.png" width="300px" />
+    <img alt="Calculadora de IMC" title="calculadoradeimc" src="https://github.com/sjtorres/calculadoraDeIMC/blob/main/img/calculado.png" width="300px" />
 </h1>
 
 ## Tecnologias
-<img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="52em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 Projeto construído no evento de Matheus Battisti - Hora de Codar.
 
